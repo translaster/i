@@ -1,3 +1,3 @@
 # TranslAster
 
-[Asterisk Definitive Guide 5th Edition](Definitive-Guide-5th-Edition)
+[Asterisk Definitive Guide 5th Edition](https://translaster.github.io/Definitive-Guide-5th-Edition/)
