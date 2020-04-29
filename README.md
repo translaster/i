@@ -1,2 +1,3 @@
-# pages
-index for translAster.github.io
+# TranslAster
+
+[Asterisk Definitive Guide 5th Edition](/Definitive-Guide-5th-Edition)
